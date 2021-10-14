@@ -1,0 +1,34 @@
+{
+  "noutbuki": [
+    {
+      "title": "MacBook Pro 15",
+      "description": "Высокая производительность. Отличный яркий дисплей. Длительное время автономной работы. Мощный звук. Стильный дизайн. Поддержка фирменных функций и технологий.",
+      "price": 159000,
+      "color": "серый",
+      "photo": "https://www.ixbt.com/portopc/macbook-retina-12-2016/macbook-retina-12-2016-10.jpg",
+      "brand": "Apple",
+      "year": "20092021",
+      "id": 2
+    },
+    {
+      "title": "MacBook Pro 13",
+      "description": "Отличная производительность. Первоклассный дисплей. Высокое качество звука. Стильный дизайн. Тонкий и легкий корпус.",
+      "price": 136500,
+      "color": "черный",
+      "photo": "https://www.klubok.net/wp-content/uploads/2021/02/100.jpg",
+      "brand": "Apple",
+      "year": "13072018",
+      "id": 3
+    },
+    {
+      "title": "MacBook Air",
+      "description": "Четкий экран с высоким разрешением. Хороший звук. Поддержка фирменных технологий. Тонкое и легкое устройство. Длительное время автономной работы.",
+      "price": 174350,
+      "color": "белый",
+      "photo": "https://vyboroved.ru/images/newimiges/3-lychshih-noytbyka-Apple/MacBook-Air.jpg",
+      "brand": "Apple",
+      "year": "13072021",
+      "id": 4
+    }
+  ]
+}
